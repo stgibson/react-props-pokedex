@@ -1,0 +1,10 @@
+/* Learned how to make CSS grid layout at https://www.w3schools.com/css/css_grid.asp */
+.Pokedex {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.Pokedex-title {
+  text-align: center;
+  color: rgb(199, 199, 199);
+}

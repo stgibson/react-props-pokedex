@@ -1,0 +1,11 @@
+.Pokecard {
+  background-color: rgba(206, 206, 206, 0.986);
+  margin: 20px 20%;
+  text-align: center;
+  padding: 20px;
+  border-radius: 25px; /* Learned how to make rounded corners at https://www.w3schools.com/css/css3_borders.asp */
+}
+
+.Pokecard-title {
+  color: blue;
+}
